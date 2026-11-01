@@ -3,7 +3,7 @@
 #include <HTTPClient.h>
 
 
-const char* ssid = "Esrammmmmmmmmmmm";
+const char* ssid = "S23 FE";
 const char* password = "29101923";
 
 #define x 82
