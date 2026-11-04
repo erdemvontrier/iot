@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "led_yakma",
+			"path": "../../led_yakma"
+		}
+	],
+	"settings": {}
+}
